@@ -1,4 +1,4 @@
-# Lab-05 - Brian Metz
+
 
 # I-75 & Kentucky River Near Exit 90
 This is a point cloud representation of the section of Interstate 75 crossing the Kentucky River near exit 90. Data was gathered from the .
